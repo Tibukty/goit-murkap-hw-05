@@ -614,7 +614,7 @@ fill: currentColor;
     
 }
 
-.card-set-blur:hover .portfolio-overlay{
+.card-border:hover .portfolio-overlay{
 transform: translateY(0%);
 }
 
