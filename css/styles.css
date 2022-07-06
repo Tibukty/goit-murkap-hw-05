@@ -626,6 +626,7 @@ transform: translateY(0%);
     font-size: 18px;
     line-height: 1.56;
     color: var(--txt-white);
+    transition: transform var(--anmtn-slow);
   }
 
 
